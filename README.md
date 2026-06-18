@@ -1,11 +1,11 @@
 # E-Commerce Recommendation & Sales Analysis
 
 ## Project Overview
-This project analyzes customer purchasing behavior and builds a product recommendation system using SQL, Python, and Power BI.
+Built an end-to-end E-Commerce Analytics project using SQL, Python and Power BI to analyze sales performance, customer behavior and generate product recommendations.
 
 ## Dataset
-- 7854 Rows
-- 3000 Orders
+- 7,854 Records
+- 3,000 Orders
 - 873 Customers
 - 30 Products
 
@@ -13,11 +13,33 @@ This project analyzes customer purchasing behavior and builds a product recommen
 - SQL
 - Python
 - Power BI
+- Pandas
+- Apriori Algorithm
 
-## Key Features
-- Sales Analysis
-- Customer Analysis
-- RFM Analysis
-- Market Basket Analysis (Apriori)
-- Product Recommendation System
-- Interactive Power BI Dashboards
+## Analysis Performed
+✅ Sales Analysis
+
+✅ Customer Analysis
+
+✅ RFM Analysis
+
+✅ Market Basket Analysis
+
+✅ Product Recommendation System
+
+## Dashboards
+
+### Sales Dashboard
+![Sales Dashboard](Screenshot%202026-06-18%20115250.png)
+
+### Customer Dashboard
+![Customer Dashboard](Screenshot%202026-06-18%20115327.png)
+
+### Recommendation Dashboard
+![Recommendation Dashboard](Screenshot%202026-06-18%20115344.png)
+
+## Key Insights
+- Identified top-performing products.
+- Segmented customers using RFM Analysis.
+- Discovered frequently bought together products.
+- Built recommendation system for cross-selling opportunities.
